@@ -1,0 +1,14 @@
+{
+    "name": "brasero/3w-academie-php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brasero",
+            "email": "brandonricci4@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
